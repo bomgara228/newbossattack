@@ -1,0 +1,12 @@
+﻿  game.cpp
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(9,37): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(9,23): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(51,31): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(137,30): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(144,30): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(174,30): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(180,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(197,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(343,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\st\Source\Repos\ZASTOOOO\ZASTOOOO\game.cpp(404,30): warning C4305: аргумент: усечение из "double" в "float"
+  ZASTOOOO.vcxproj -> C:\Users\st\Source\Repos\ZASTOOOO\Debug\ZASTOOOO.exe
